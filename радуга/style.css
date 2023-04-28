@@ -1,0 +1,31 @@
+body {
+    background: gray;
+}
+
+p {
+    color: red;
+}
+
+h6 {
+    color: orange;
+}
+
+h5 {
+    color: green;
+}
+
+h4 {
+    color: yellow;
+}
+
+h3 {
+    color: cyan;
+}
+
+h2 {
+    color: blue;
+}
+
+h1 {
+    color: blueviolet;
+}
